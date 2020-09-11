@@ -15,7 +15,7 @@ namespace SimpleWebApplicationG3.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Gayathri Mahadevan's Page";
+            ViewBag.Message = "Rutuja Pansare's Page";
 
             return View();
         }
